@@ -1,0 +1,25 @@
+html {
+    background-color: #B9ABBC
+}
+.accumulatorProblem {
+    margin-right: auto;
+    margin-left: auto;
+    width: 20em;
+    text-align: center;
+}
+.beerFoodPairings {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30em;
+    background-color: lightblue;
+}
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 3em;
+}
+img {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 30em;
+}
